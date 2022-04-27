@@ -3,7 +3,7 @@ console.log(divide());
 
 //this one the test doesn't pass it
 const divideMine = (a,b) => a/b;
-console.log(divide(2000, 100));
+console.log(divideMine(2000, 100));
 
 
 const square = (num) => num*num;
